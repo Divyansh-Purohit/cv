@@ -1,0 +1,97 @@
+a{
+	text-decoration: none;
+}
+hr{
+	margin-top: 150px;
+	border-style: dotted none none;
+	height: 0px;
+	border-color: grey;
+	border-width: 5px;
+	width: 5%;
+}
+body{
+	margin:0;
+	padding:0;
+	background-color: #b68973;
+	font-family: verdana, fantasy;
+}
+.navigation{
+	position: fixed;
+	background-color: #6ddccf;
+	height: 40px;
+	width: 100%;
+	margin-left: 0;
+	padding-left: 0px;
+	padding left: 0px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+.ulist{
+	list-style: none;
+	display: inline-block;
+	padding-inline-start:20px;
+	margin: 5px;
+}
+.list{
+	margin:0px;
+	margin-top: 10px;
+
+	padding:0 20px 0 10px;
+	width: 150px;
+	height:50px;
+	color: white;
+	display: inline;
+	font-size: 24px;
+	/*font-family: cursive;*/
+	border: 3px 3px 0 3px solid white;
+}
+#leftmost{
+	color: white;
+	padding-left: 0;
+}
+#leftmost:hover{
+	background-color: #6ddccf;  
+}
+.list:hover{
+	background-color:white;
+	color: black;
+	text-decoration: none;
+
+}
+.intro{
+	position: relative;
+	top: 10px;
+	margin-top: 30px;
+	padding-top: 20px;
+	margin-bottom: 30px;
+}
+.Mypic{
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+}
+.line1{
+	color: #153e90;
+	font-family: Sacramento;
+	padding: 5px;
+}
+.line2{
+	font-size: 24px;
+}
+.edu-head{
+	background-color: #6ddccf;
+	height: 40px;
+	width: 70%;
+}
+.text{
+	/*background-color: */
+	margin-top: 0;
+	padding: 0 9px 0 0;
+	float: right;
+	font-size: 24px;
+	/*font-family: cursive;*/
+	color: white;
+}
+.skill{
+	font-size: 20px;
+}
